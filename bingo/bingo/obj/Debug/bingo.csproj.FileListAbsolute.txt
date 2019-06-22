@@ -1,0 +1,7 @@
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\bin\Debug\bingo.exe.config
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\bin\Debug\bingo.exe
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\bin\Debug\bingo.pdb
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\obj\Debug\bingo.exe
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\obj\Debug\bingo.pdb
+D:\Users\Won\Desktop\作品彙整\bingo\bingo\obj\Debug\bingo.csprojAssemblyReference.cache
